@@ -1,0 +1,16 @@
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_config_types.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/lib/pkgconfig/speex.pc
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/lib/pkgconfig/speexdsp.pc
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_bits.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_buffer.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_callbacks.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_echo.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_header.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_jitter.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_preprocess.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_resampler.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_stereo.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/speex/speex_types.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/lib/libspeex.a
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/lib/libspeexdsp.a

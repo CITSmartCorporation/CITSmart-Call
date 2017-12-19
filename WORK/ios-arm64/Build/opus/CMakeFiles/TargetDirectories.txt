@@ -1,0 +1,6 @@
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Build/opus/CMakeFiles/install/local.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Build/opus/CMakeFiles/install.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Build/opus/CMakeFiles/list_install_components.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Build/opus/CMakeFiles/opus.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Build/opus/CMakeFiles/rebuild_cache.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Build/opus/CMakeFiles/edit_cache.dir

@@ -1,0 +1,6 @@
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/share/bzrtp/cmake/BZRTPTargets.cmake
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/share/bzrtp/cmake/BZRTPTargets-release.cmake
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/share/bzrtp/cmake/BZRTPConfig.cmake
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/share/bzrtp/cmake/BZRTPConfigVersion.cmake
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/include/bzrtp/bzrtp.h
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/liblinphone-sdk/x86_64-apple-darwin.ios/lib/libbzrtp.a

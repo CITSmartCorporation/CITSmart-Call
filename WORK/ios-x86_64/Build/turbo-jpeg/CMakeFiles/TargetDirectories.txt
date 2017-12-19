@@ -1,0 +1,6 @@
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Build/turbo-jpeg/CMakeFiles/install/local.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Build/turbo-jpeg/CMakeFiles/install.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Build/turbo-jpeg/CMakeFiles/turbojpeg-static.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Build/turbo-jpeg/CMakeFiles/list_install_components.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Build/turbo-jpeg/CMakeFiles/rebuild_cache.dir
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Build/turbo-jpeg/CMakeFiles/edit_cache.dir

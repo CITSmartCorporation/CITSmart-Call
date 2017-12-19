@@ -1,0 +1,14 @@
+# Target labels
+ EP_belr
+# Source files and their labels
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_belr
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_belr.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_belr-complete.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Stamp/EP_belr/EP_belr-install.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Stamp/EP_belr/EP_belr-mkdir.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Stamp/EP_belr/EP_belr-download.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Stamp/EP_belr/EP_belr-update.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Stamp/EP_belr/EP_belr-patch.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Stamp/EP_belr/EP_belr-configure.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Stamp/EP_belr/EP_belr-build.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-arm64/Stamp/EP_belr/EP_belr-force_build.rule

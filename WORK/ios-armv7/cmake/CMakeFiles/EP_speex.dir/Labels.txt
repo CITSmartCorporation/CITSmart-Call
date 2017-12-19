@@ -1,0 +1,14 @@
+# Target labels
+ EP_speex
+# Source files and their labels
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_speex
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_speex.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_speex-complete.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-install.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-mkdir.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-download.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-update.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-patch.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-configure.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-build.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-armv7/Stamp/EP_speex/EP_speex-force_build.rule

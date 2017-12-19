@@ -1,0 +1,14 @@
+# Target labels
+ EP_gsm
+# Source files and their labels
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_gsm
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_gsm.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_gsm-complete.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_gsm/EP_gsm-install.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_gsm/EP_gsm-mkdir.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_gsm/EP_gsm-download.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_gsm/EP_gsm-update.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_gsm/EP_gsm-patch.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_gsm/EP_gsm-configure.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_gsm/EP_gsm-build.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_gsm/EP_gsm-force_build.rule

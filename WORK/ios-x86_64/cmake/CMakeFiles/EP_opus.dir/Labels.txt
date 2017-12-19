@@ -1,0 +1,14 @@
+# Target labels
+ EP_opus
+# Source files and their labels
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_opus
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_opus.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_opus-complete.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_opus/EP_opus-install.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_opus/EP_opus-mkdir.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_opus/EP_opus-download.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_opus/EP_opus-update.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_opus/EP_opus-patch.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_opus/EP_opus-configure.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_opus/EP_opus-build.rule
+/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_opus/EP_opus-force_build.rule

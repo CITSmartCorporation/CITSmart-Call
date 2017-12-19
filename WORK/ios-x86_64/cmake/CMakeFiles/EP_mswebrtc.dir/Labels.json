@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_mswebrtc"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_mswebrtc.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_mswebrtc-complete.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mswebrtc/EP_mswebrtc-install.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mswebrtc/EP_mswebrtc-mkdir.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mswebrtc/EP_mswebrtc-download.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mswebrtc/EP_mswebrtc-update.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mswebrtc/EP_mswebrtc-patch.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mswebrtc/EP_mswebrtc-configure.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mswebrtc/EP_mswebrtc-build.rule"
+		},
+		{
+			"file" : "/Users/cleisonmelo/Desktop/repository/linphone-iphone-master/linphone-iphone/WORK/ios-x86_64/Stamp/EP_mswebrtc/EP_mswebrtc-force_build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EP_mswebrtc"
+		],
+		"name" : "EP_mswebrtc"
+	}
+}
