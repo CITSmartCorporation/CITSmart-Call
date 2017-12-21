@@ -115,16 +115,6 @@
 			<string>PSChildPaneSpecifier</string>
 		</dict>
 		<dict>
-			<key>Type</key>
-			<string>PSChildPaneSpecifier</string>
-			<key>Key</key>
-			<string>message_menu</string>
-			<key>Title</key>
-			<string>Chat</string>
-			<key>File</key>
-			<string>Chat</string>
-		</dict>
-		<dict>
 			<key>Key</key>
 			<string>network_menu</string>
 			<key>File</key>
@@ -151,56 +141,6 @@
 			<string>Advanced</string>
 			<key>Type</key>
 			<string>PSChildPaneSpecifier</string>
-		</dict>
-		<dict>
-			<key>Title</key>
-			<string>Development debug actions</string>
-			<key>Key</key>
-			<string>debug_actions_group</string>
-			<key>Type</key>
-			<string>PSGroupSpecifier</string>
-		</dict>
-		<dict>
-			<key>Key</key>
-			<string>release_button</string>
-			<key>Title</key>
-			<string>Release core</string>
-			<key>Type</key>
-			<string>IASKButtonSpecifier</string>
-		</dict>
-		<dict>
-			<key>Key</key>
-			<string>clear_cache_button</string>
-			<key>Title</key>
-			<string>Clear cache</string>
-			<key>Type</key>
-			<string>IASKButtonSpecifier</string>
-		</dict>
-		<dict>
-			<key>Key</key>
-			<string>battery_alert_button</string>
-			<key>Title</key>
-			<string>Battery alert</string>
-			<key>Type</key>
-			<string>IASKButtonSpecifier</string>
-		</dict>
-		<dict>
-			<key>Key</key>
-			<string>flush_images_button</string>
-			<key>Title</key>
-			<string>Flush downloaded images</string>
-			<key>Type</key>
-			<string>IASKButtonSpecifier</string>
-		</dict>
-		<dict>
-			<key>Type</key>
-			<string>PSToggleSwitchSpecifier</string>
-			<key>Title</key>
-			<string>Auto answer call immediately</string>
-			<key>Key</key>
-			<string>enable_auto_answer_preference</string>
-			<key>DefaultValue</key>
-			<false/>
 		</dict>
 	</array>
 	<key>StringsTable</key>

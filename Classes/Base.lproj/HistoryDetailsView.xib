@@ -54,8 +54,8 @@
                                 </button>
                             </subviews>
                         </view>
-                        <view tag="7" contentMode="scaleToFill" id="33" userLabel="headerView">
-                            <rect key="frame" x="0.0" y="66" width="375" height="250"/>
+                        <view tag="7" contentMode="scaleToFill" misplaced="YES" id="33" userLabel="headerView">
+                            <rect key="frame" x="0.0" y="66" width="375" height="268"/>
                             <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <subviews>
                                 <imageView userInteractionEnabled="NO" tag="8" contentMode="scaleAspectFit" image="avatar.png" id="23" userLabel="avatarImage" customClass="UIRoundedImageView">
@@ -74,8 +74,8 @@
                                     <color key="textColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <nil key="highlightedColor"/>
                                 </label>
-                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="11" contentMode="left" text="citsmart@citsmartcloud.com" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="EoB-ux-sD7" userLabel="addressLabel">
-                                    <rect key="frame" x="0.0" y="158" width="375" height="23"/>
+                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" tag="11" contentMode="left" misplaced="YES" text="citsmart@citsmartcloud.com" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="EoB-ux-sD7" userLabel="addressLabel">
+                                    <rect key="frame" x="0.0" y="150" width="375" height="23"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <accessibility key="accessibilityConfiguration" label="Contact name"/>
                                     <fontDescription key="fontDescription" type="system" pointSize="18"/>
@@ -83,14 +83,13 @@
                                     <nil key="highlightedColor"/>
                                 </label>
                                 <button opaque="NO" tag="13" contentMode="scaleAspectFit" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="5eX-W0-T4B" userLabel="callButton">
-                                    <rect key="frame" x="0.0" y="189" width="375" height="28"/>
+                                    <rect key="frame" x="163" y="175" width="51" height="51"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    <state key="normal" title="CALL">
+                                    <state key="normal" image="call_start_body_over.png">
                                         <color key="titleColor" red="0.58664858341217041" green="0.75746434926986694" blue="0.12165842205286026" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </state>
                                     <state key="disabled" image="call_start_body_disabled.png"/>
-                                    <state key="highlighted" image="call_start_body_over.png"/>
                                     <connections>
                                         <action selector="onCallClick:" destination="-1" eventType="touchUpInside" id="Vlx-14-3CH"/>
                                     </connections>
@@ -98,8 +97,8 @@
                             </subviews>
                             <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         </view>
-                        <tableView clipsSubviews="YES" tag="6" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" allowsSelection="NO" rowHeight="30" sectionHeaderHeight="28" sectionFooterHeight="28" id="k6N-Av-eOu">
-                            <rect key="frame" x="0.0" y="316" width="375" height="243"/>
+                        <tableView clipsSubviews="YES" tag="6" contentMode="scaleToFill" misplaced="YES" alwaysBounceVertical="YES" style="plain" separatorStyle="none" allowsSelection="NO" rowHeight="30" sectionHeaderHeight="28" sectionFooterHeight="28" id="k6N-Av-eOu">
+                            <rect key="frame" x="0.0" y="332" width="375" height="227"/>
                             <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
@@ -190,14 +189,13 @@
                                     <nil key="highlightedColor"/>
                                 </label>
                                 <button opaque="NO" tag="13" contentMode="scaleAspectFit" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="zZo-Pc-EVi" userLabel="callButton">
-                                    <rect key="frame" x="525" y="25" width="142" height="51"/>
+                                    <rect key="frame" x="600" y="25" width="51" height="51"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    <state key="normal" title="CALL">
+                                    <state key="normal" image="call_start_body_over.png">
                                         <color key="titleColor" red="0.58664858341217041" green="0.75746434926986694" blue="0.12165842205286026" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </state>
                                     <state key="disabled" image="call_start_body_disabled.png"/>
-                                    <state key="highlighted" image="call_start_body_over.png"/>
                                     <connections>
                                         <action selector="onCallClick:" destination="-1" eventType="touchUpInside" id="xBV-3j-apE"/>
                                     </connections>

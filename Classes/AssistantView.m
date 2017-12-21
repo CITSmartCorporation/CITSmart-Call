@@ -1249,7 +1249,11 @@ void assistant_is_account_linked(LinphoneAccountCreator *creator, LinphoneAccoun
     ONCLICKBUTTON(sender, 100, {
         nextView = _remoteProvisioningView;
         [self loadAssistantConfig:@"assistant_remote.rc"];
-        [self findTextField:ViewElement_URL].text =
+        
+        [self findTextField:ViewElement_URL].text = @"";
+        [self findTextField:ViewElement_Username].text = @"";
+        [self findTextField:ViewElement_Password].text = @"";
+        
         [LinphoneManager.instance lpConfigStringForKey:@"config-uri" inSection:@"misc"];
     });
 }
@@ -1439,7 +1443,7 @@ void assistant_is_account_linked(LinphoneAccountCreator *creator, LinphoneAccoun
                                          domain = [NSString stringWithFormat:@"%@", [result objectForKey:@"domain"]];
                                      }
                                      
-                                     //NSString *extension = [NSString stringWithFormat:@"%@", [result objectForKey:@"extension"]];
+                                     NSString *extension = [NSString stringWithFormat:@"%@", [result objectForKey:@"extension"]];
                                      NSString *displayName = @"";
                                      
                                      if (enable != nil && ([enable isEqualToString:@"S"] || [enable isEqualToString:@"s"])) {
@@ -1487,7 +1491,9 @@ void assistant_is_account_linked(LinphoneAccountCreator *creator, LinphoneAccoun
                                                  // reload address book to prepend proxy config domain to contacts' phone number
                                                  // todo: STOP doing that!
                                                  [_waitView setHidden:true];
-                                                 DialerView.compositeViewDescription.extension = @"0800";
+                                                 
+                                                 DialerView.compositeViewDescription.extension = extension;
+                                                 
                                                  [[LinphoneManager.instance fastAddressBook] fetchContactsInBackGroundThread];
                                                  [PhoneMainView.instance changeCurrentView:DialerView.compositeViewDescription];
                                              } else {
